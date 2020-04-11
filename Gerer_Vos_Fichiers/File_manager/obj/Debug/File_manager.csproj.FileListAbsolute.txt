@@ -1,0 +1,6 @@
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager\bin\Debug\File_manager.dll
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager\bin\Debug\File_manager.pdb
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager\obj\Debug\File_manager.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager\obj\Debug\File_manager.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager\obj\Debug\File_manager.dll
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager\obj\Debug\File_manager.pdb

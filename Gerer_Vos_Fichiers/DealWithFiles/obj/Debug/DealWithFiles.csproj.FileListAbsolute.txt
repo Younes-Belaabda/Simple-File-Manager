@@ -1,0 +1,6 @@
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\bin\Debug\DealWithFiles.dll
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\bin\Debug\DealWithFiles.pdb
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.csprojAssemblyReference.cache
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.dll
+C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.pdb
