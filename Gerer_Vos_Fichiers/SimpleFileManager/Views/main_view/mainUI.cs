@@ -6,6 +6,7 @@ using System.Drawing;
 using FileManagerService;
 using DealWithFiles;
 using Gerer_Vos_Fichiers.FileControls;
+using System.Collections.Generic;
 
 
 #endregion
@@ -50,6 +51,7 @@ namespace DamanFichiers
         {
             
             lst_files.Items.Clear();
+            FileCRUD.tempFiles.Clear();
             fileManager.listViewFill(e.Node, lst_files);
             fileManager.treeViewItemSubFolders(e.Node);
             e.Node.ImageIndex = 1;
@@ -59,6 +61,8 @@ namespace DamanFichiers
         }
         private void viewFoldersBeforeCollapse(object sender, TreeViewCancelEventArgs e)
         {
+            FileCRUD.tempFiles.Clear();
+
             e.Node.Nodes.Clear();
             e.Node.Nodes.Add("");
             e.Node.ImageIndex = 0;
@@ -122,6 +126,34 @@ namespace DamanFichiers
                     tr.Collapse();
                 }
             }
+        }
+
+        private void txt_rechercher_TextChanged(object sender, EventArgs e)
+        {
+            txt_rechercher.ForeColor = Color.Black;
+            fileCrud.myEvent += FileCrud_myEvent;
+            List<FileInfo> files = fileCrud.getTempFile(txt_rechercher.Text);
+            fileCrud.RemplirListView(files, lst_files);
+        }
+
+        private void FileCrud_myEvent(object sender, EventArgs e)
+        {
+            txt_rechercher.ForeColor = Color.Red;
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lst_files.View = View.List;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            lst_files.View = View.Tile;
         }
     }
 }

@@ -1,11 +1,17 @@
 ﻿using System;
 using System.Windows.Forms;
 using System.IO;
+using System.Linq;
 using System.Diagnostics;
+using System.Collections.Generic;
+
 namespace DealWithFiles
 {
     public class FileCRUD
     {
+        public static List<FileInfo> tempFiles = new List<FileInfo>();
+        
+        public event EventHandler myEvent;
         //Create File
         public void FileCreate()
         {
@@ -62,6 +68,36 @@ namespace DealWithFiles
             string destination = @"" + newPath + "\\" + fileName;
             F.MoveTo(destination);
             
+        }
+
+        public List<FileInfo> getTempFile(string filename)
+        {
+            var query = from file in tempFiles
+                        where file.Name.Contains(filename)
+                        select file;
+            return query.ToList();
+        }
+        public void RemplirListView(List<FileInfo> fileInfos,ListView listView)
+        {
+            
+            if(fileInfos.Count == 0)
+            {
+                this.myEvent?.Invoke(this, EventArgs.Empty);
+            }
+            String[] Extensions = { ".doc", ".pdf", ".ppt", ".xls" };
+            ListViewItem listViewItem = null;
+            
+            listView.Items.Clear();
+            foreach(var file in fileInfos)
+            {   listViewItem = new ListViewItem();
+                listViewItem.Tag = file.FullName;
+                listViewItem.Text = file.Name;
+                if(file.Extension == Extensions[0]) { listViewItem.ImageIndex = 0; }
+                if(file.Extension == Extensions[1]) { listViewItem.ImageIndex = 1; }
+                if(file.Extension == Extensions[2]) { listViewItem.ImageIndex = 3; }
+                if(file.Extension == Extensions[3]) { listViewItem.ImageIndex = 2; }
+                listView.Items.Add(listViewItem);
+            }
         }
     }
 }

@@ -2,6 +2,7 @@
 using System.Windows.Forms;
 using System.IO;
 using FileSystemService;
+using DealWithFiles;
 
 namespace FileManagerService
 {
@@ -73,6 +74,7 @@ namespace FileManagerService
                     listViewItem = new ListViewItem();
                     listViewItem.Text = fileInfo.Name;
                     listViewItem.Tag = fileInfo.FullName;
+                    FileCRUD.tempFiles.Add(fileInfo);
                     switch (fileInfo.Extension)
                     {
                         case ".doc":
@@ -109,6 +111,7 @@ namespace FileManagerService
 
         public void refreshList(string Path, ListView listView)
         {
+            
             listView.Items.Clear();
             String[] Extensions = { ".doc", ".pdf", ".ppt", ".xls" };
             ListViewItem listViewItem;
@@ -142,5 +145,8 @@ namespace FileManagerService
                 }
             }
         }
+
+       
+
     }
 }

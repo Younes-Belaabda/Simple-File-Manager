@@ -7,3 +7,13 @@ C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager_UI\o
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager_UI\obj\Debug\FileManagerService.csproj.CopyComplete
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager_UI\obj\Debug\File_manager_UI.dll
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\File_manager_UI\obj\Debug\File_manager_UI.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\bin\Debug\File_manager_UI.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\bin\Debug\File_manager_UI.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\bin\Debug\File_manager.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\obj\Debug\FileManagerService.csprojAssemblyReference.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\obj\Debug\FileManagerService.csproj.CoreCompileInputs.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\obj\Debug\FileManagerService.csproj.CopyComplete
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\obj\Debug\File_manager_UI.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\obj\Debug\File_manager_UI.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\bin\Debug\DealWithFiles.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\File_manager_UI\bin\Debug\DealWithFiles.pdb

@@ -4,3 +4,9 @@ C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.csproj.CoreCompileInputs.cache
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.dll
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\DealWithFiles\obj\Debug\DealWithFiles.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\DealWithFiles\bin\Debug\DealWithFiles.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\DealWithFiles\bin\Debug\DealWithFiles.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\DealWithFiles\obj\Debug\DealWithFiles.csprojAssemblyReference.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\DealWithFiles\obj\Debug\DealWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\DealWithFiles\obj\Debug\DealWithFiles.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\DealWithFiles\obj\Debug\DealWithFiles.pdb

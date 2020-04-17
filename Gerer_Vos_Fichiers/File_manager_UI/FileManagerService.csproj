@@ -49,6 +49,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DealWithFiles\DealWithFiles.csproj">
+      <Project>{bc4538d3-4fee-4dcf-a3a1-0bd740cdcc93}</Project>
+      <Name>DealWithFiles</Name>
+    </ProjectReference>
     <ProjectReference Include="..\File_manager\FileSystemService.csproj">
       <Project>{c01b76f7-6d53-4199-817e-5856a76ef0c2}</Project>
       <Name>FileSystemService</Name>

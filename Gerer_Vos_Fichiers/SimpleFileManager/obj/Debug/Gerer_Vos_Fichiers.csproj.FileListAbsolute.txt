@@ -25,3 +25,21 @@ C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\Gerer_Vos_Fichier
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\Gerer_Vos_Fichiers\bin\Debug\DealWithFiles.dll
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\Gerer_Vos_Fichiers\bin\Debug\DealWithFiles.pdb
 C:\Users\Desktop\Desktop\All Projects\C# Projects\Stage Projet\Gerer_Vos_Fichiers\obj\Debug\Gerer_Vos_Fichiers.FileControls.RenameFileControl.resources
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\Gerer_Vos_Fichiers.exe.config
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\Gerer_Vos_Fichiers.exe
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\Gerer_Vos_Fichiers.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\DealWithFiles.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\File_manager.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\File_manager_UI.dll
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\DealWithFiles.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\File_manager.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\bin\Debug\File_manager_UI.pdb
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.csprojAssemblyReference.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.FileControls.RenameFileControl.resources
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\DamanFichiers.mainUI.resources
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.Properties.Resources.resources
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.csproj.GenerateResource.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.csproj.CoreCompileInputs.cache
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.csproj.CopyComplete
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.exe
+C:\Users\dotG\Desktop\Simple-File-Manager\Gerer_Vos_Fichiers\SimpleFileManager\obj\Debug\Gerer_Vos_Fichiers.pdb
